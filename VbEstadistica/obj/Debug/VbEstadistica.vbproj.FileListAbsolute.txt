@@ -1,0 +1,13 @@
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\bin\Debug\VbEstadistica.exe.config
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\bin\Debug\VbEstadistica.exe
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\bin\Debug\VbEstadistica.pdb
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\bin\Debug\VbEstadistica.xml
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\obj\Debug\VbEstadistica.vbprojAssemblyReference.cache
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\obj\Debug\VbEstadistica.Form1.resources
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\obj\Debug\VbEstadistica.Resources.resources
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\obj\Debug\VbEstadistica.Nuevo.resources
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\obj\Debug\VbEstadistica.vbproj.GenerateResource.cache
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\obj\Debug\VbEstadistica.exe
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\obj\Debug\VbEstadistica.xml
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\obj\Debug\VbEstadistica.pdb
+C:\Users\Antxon\source\repos\VbEstadistica\VbEstadistica\obj\Debug\VbEstadistica.Cambio.resources
